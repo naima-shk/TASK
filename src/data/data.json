@@ -1,0 +1,14 @@
+{
+    "Header": {
+        "title": "For all your software needs"
+        },
+    
+     "Contact": {
+        "address": "4321 Bangalore  , India ",
+        "phone": "+91 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    }
+}
